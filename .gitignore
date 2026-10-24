@@ -1,0 +1,7 @@
+
+**/__pycache__/
+**/*.py[cod]
+
+sakila_dashboard/data/sakila.db
+sakila_dashboard/metabase_db/*.trace.db
+sakila_dashboard/metabase_db/*.db.db
