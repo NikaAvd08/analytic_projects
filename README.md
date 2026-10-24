@@ -1,4 +1,4 @@
-# analitic_projects
+# analytic_projects
 
 Репозиторий содержит решения практических задач и соревнований на платформе Kaggle. 
 
